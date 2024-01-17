@@ -12,5 +12,5 @@ if (y !== undefined) {
     
     converter.img_sets.twitter.sheet = "/e/emoji-assets/emoji-datasource/img/twitter/sheets/32.png";
     
-    y.innerHTML = converter.replace_colons(y.innerHTML);
+    y.textContent = converter.replace_colons(y.textContent);
 }
