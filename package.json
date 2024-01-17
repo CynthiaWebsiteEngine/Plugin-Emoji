@@ -1,0 +1,11 @@
+{
+  "name": "@cynthiacms/emoji",
+  "version": "2.0.0",
+  "description": "Allows :emoji: through CynthiaCMS.",
+  "main": "index.js",
+  "author": "MLC Bloeiman",
+  "license": "MIT",
+  "dependencies": {
+    "emoji-js": "^3.8.0"
+  }
+}
